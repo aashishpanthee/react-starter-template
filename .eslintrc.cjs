@@ -22,7 +22,6 @@ module.exports = {
     'react/no-unescaped-entities': 0,
     'import/prefer-default-export': 0,
     'react/require-default-props': 0,
-    'react/no-array-index-key': 0,
     'no-multiple-empty-lines': ['error', { max: 1 }],
   },
 };
